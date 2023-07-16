@@ -1,274 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="453a55da-ba2b-4769-9f8c-4e120f5bb997" name="变更" comment="新脚本">
+    <list default="true" id="453a55da-ba2b-4769-9f8c-4e120f5bb997" name="变更" comment="新脚本1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/世界树的幻影 10 2839.txt" beforeDir="false" afterPath="$PROJECT_DIR$/世界树的幻影 10 2839.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/世界树的幻影 2 2831.txt" beforeDir="false" afterPath="$PROJECT_DIR$/世界树的幻影 2 2831.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/世界树的幻影 3 2832.txt" beforeDir="false" afterPath="$PROJECT_DIR$/世界树的幻影 3 2832.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/世界树的幻影 8 2837.txt" beforeDir="false" afterPath="$PROJECT_DIR$/世界树的幻影 8 2837.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/世界树的幻影 9 2838.txt" beforeDir="false" afterPath="$PROJECT_DIR$/世界树的幻影 9 2838.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 1 4991.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 1 4991.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 2 4992.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 2 4992.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 3 4993.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 3 4993.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 4 4994.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 4 4994.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 4990.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 4990.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 5 4995.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 5 4995.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 6 4996.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 6 4996.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 7 4997.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 7 4997.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 8 4998.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 8 4998.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/亚克罗之冠 9 4999.txt" beforeDir="false" afterPath="$PROJECT_DIR$/亚克罗之冠 9 4999.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/人面狮身像房间 644.txt" beforeDir="false" afterPath="$PROJECT_DIR$/人面狮身像房间 644.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/克诺索斯 2 4982.txt" beforeDir="false" afterPath="$PROJECT_DIR$/克诺索斯 2 4982.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冥王神殿 2楼 41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冥王神殿 2楼 41.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰封的世界 3841.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰封的世界 3841.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰封的世界 3842.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰封的世界 3842.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰封的世界 3843.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰封的世界 3843.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰封的世界 3846.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰封的世界 3846.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰封的世界 3848.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰封的世界 3848.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱 4920.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱 4920.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱1 4921.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱1 4921.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱2 4922.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱2 4922.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱3 4923.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱3 4923.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱4 4924.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱4 4924.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱5 4925.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱5 4925.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱6 4926.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱6 4926.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱7 4927.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱7 4927.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱8 4928.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱8 4928.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/冰柱监狱9 4929.txt" beforeDir="false" afterPath="$PROJECT_DIR$/冰柱监狱9 4929.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/前往立佩拉市政府 2层的楼梯 3412.txt" beforeDir="false" afterPath="$PROJECT_DIR$/前往立佩拉市政府 2层的楼梯 3412.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/十六日的月 1 630.txt" beforeDir="false" afterPath="$PROJECT_DIR$/十六日的月 1 630.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/十六日的月 2 631.txt" beforeDir="false" afterPath="$PROJECT_DIR$/十六日的月 2 631.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/十六日的黑月 632.txt" beforeDir="false" afterPath="$PROJECT_DIR$/十六日的黑月 632.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间 5140.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间 5140.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间1 5141.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间1 5141.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间2 5142.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间2 5142.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间3 5143.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间3 5143.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间4 5144.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间4 5144.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间5 5145.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间5 5145.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间6 5146.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间6 5146.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间7 5147.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间7 5147.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/卡伊洛斯的时间8 5148.txt" beforeDir="false" afterPath="$PROJECT_DIR$/卡伊洛斯的时间8 5148.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/吉斯克领地 4 4523.txt" beforeDir="false" afterPath="$PROJECT_DIR$/吉斯克领地 4 4523.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/吉斯克领地 5 4524.txt" beforeDir="false" afterPath="$PROJECT_DIR$/吉斯克领地 5 4524.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/哥德房屋 620.txt" beforeDir="false" afterPath="$PROJECT_DIR$/哥德房屋 620.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉 4910.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉 4910.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉1 4911.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉1 4911.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉10 49110.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉10 49110.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉11 49111.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉11 49111.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉12 49112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉12 49112.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉2 4912.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉2 4912.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉3 4913.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉3 4913.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉4 4914.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉4 4914.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉5 4915.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉5 4915.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉6 4916.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉6 4916.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉7 4917.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉7 4917.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉8 4918.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉8 4918.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/回音之泉9 4919.txt" beforeDir="false" afterPath="$PROJECT_DIR$/回音之泉9 4919.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/圣域艾多斯 3 4713.txt" beforeDir="false" afterPath="$PROJECT_DIR$/圣域艾多斯 3 4713.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/天空海 5 1794.txt" beforeDir="false" afterPath="$PROJECT_DIR$/天空海 5 1794.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/奥斯古拉斯临时营区 3080.txt" beforeDir="false" afterPath="$PROJECT_DIR$/奥斯古拉斯临时营区 3080.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林 10 3699.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林 10 3699.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林 2 3691.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林 2 3691.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林 3 3692.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林 3 3692.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林 4 3693.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林 4 3693.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林 5 3694.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林 5 3694.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林 6 3695.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林 6 3695.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林 7 3696.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林 7 3696.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林 9 3698.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林 9 3698.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝石树森林奖励房 36910.txt" beforeDir="false" afterPath="$PROJECT_DIR$/宝石树森林奖励房 36910.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/峇尼塔斯 5090.txt" beforeDir="false" afterPath="$PROJECT_DIR$/峇尼塔斯 5090.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/峇尼塔斯1 5091.txt" beforeDir="false" afterPath="$PROJECT_DIR$/峇尼塔斯1 5091.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/峇尼塔斯2 5092.txt" beforeDir="false" afterPath="$PROJECT_DIR$/峇尼塔斯2 5092.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/峇尼塔斯3 5093.txt" beforeDir="false" afterPath="$PROJECT_DIR$/峇尼塔斯3 5093.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/峇尼塔斯4 5094.txt" beforeDir="false" afterPath="$PROJECT_DIR$/峇尼塔斯4 5094.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/峇尼塔斯5 5095.txt" beforeDir="false" afterPath="$PROJECT_DIR$/峇尼塔斯5 5095.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/峇尼塔斯6 5096.txt" beforeDir="false" afterPath="$PROJECT_DIR$/峇尼塔斯6 5096.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/峇尼塔斯7 5097.txt" beforeDir="false" afterPath="$PROJECT_DIR$/峇尼塔斯7 5097.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/巧克力花园 1 3500.txt" beforeDir="false" afterPath="$PROJECT_DIR$/巧克力花园 1 3500.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/巧克力花园 2 3501.txt" beforeDir="false" afterPath="$PROJECT_DIR$/巧克力花园 2 3501.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/巧克力花园 3 3502.txt" beforeDir="false" afterPath="$PROJECT_DIR$/巧克力花园 3 3502.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/巧克力花园 4 3503.txt" beforeDir="false" afterPath="$PROJECT_DIR$/巧克力花园 4 3503.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/巧克力花园 5 3504.txt" beforeDir="false" afterPath="$PROJECT_DIR$/巧克力花园 5 3504.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/巧克力花园大厅 3505.txt" beforeDir="false" afterPath="$PROJECT_DIR$/巧克力花园大厅 3505.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/巧克力花园奖励 3506.txt" beforeDir="false" afterPath="$PROJECT_DIR$/巧克力花园奖励 3506.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/希莱 1 4721.txt" beforeDir="false" afterPath="$PROJECT_DIR$/希莱 1 4721.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/希莱 2 4722.txt" beforeDir="false" afterPath="$PROJECT_DIR$/希莱 2 4722.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/希莱 3 4723.txt" beforeDir="false" afterPath="$PROJECT_DIR$/希莱 3 4723.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/希莱 4 4724.txt" beforeDir="false" afterPath="$PROJECT_DIR$/希莱 4 4724.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/希莱 4720.txt" beforeDir="false" afterPath="$PROJECT_DIR$/希莱 4720.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/希莱 5 4725.txt" beforeDir="false" afterPath="$PROJECT_DIR$/希莱 5 4725.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/希莱 6 4726.txt" beforeDir="false" afterPath="$PROJECT_DIR$/希莱 6 4726.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/希莱 7 4727.txt" beforeDir="false" afterPath="$PROJECT_DIR$/希莱 7 4727.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/幻之摇篮 1 4601.txt" beforeDir="false" afterPath="$PROJECT_DIR$/幻之摇篮 1 4601.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/幻之摇篮 2 4602.txt" beforeDir="false" afterPath="$PROJECT_DIR$/幻之摇篮 2 4602.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/幻之摇篮 3 4603.txt" beforeDir="false" afterPath="$PROJECT_DIR$/幻之摇篮 3 4603.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/幻之摇篮 4 4604.txt" beforeDir="false" afterPath="$PROJECT_DIR$/幻之摇篮 4 4604.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/幻之摇篮 4600.txt" beforeDir="false" afterPath="$PROJECT_DIR$/幻之摇篮 4600.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/幻之摇篮 5 4605.txt" beforeDir="false" afterPath="$PROJECT_DIR$/幻之摇篮 5 4605.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/幻之摇篮 6 4606.txt" beforeDir="false" afterPath="$PROJECT_DIR$/幻之摇篮 6 4606.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/幻之摇篮 7 4607.txt" beforeDir="false" afterPath="$PROJECT_DIR$/幻之摇篮 7 4607.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/底波拉雪原 4 4903.txt" beforeDir="false" afterPath="$PROJECT_DIR$/底波拉雪原 4 4903.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/心脏的记忆 1 5001.txt" beforeDir="false" afterPath="$PROJECT_DIR$/心脏的记忆 1 5001.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/心脏的记忆 2 5002.txt" beforeDir="false" afterPath="$PROJECT_DIR$/心脏的记忆 2 5002.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/心脏的记忆 3 5003.txt" beforeDir="false" afterPath="$PROJECT_DIR$/心脏的记忆 3 5003.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/心脏的记忆 4 5004.txt" beforeDir="false" afterPath="$PROJECT_DIR$/心脏的记忆 4 5004.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/心脏的记忆 5 5005.txt" beforeDir="false" afterPath="$PROJECT_DIR$/心脏的记忆 5 5005.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/心脏的记忆 5000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/心脏的记忆 5000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 1 4571.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 1 4571.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 10 45710.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 10 45710.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 11 45711.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 11 45711.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/忘却湖畔 12 45712.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 12 45712.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 2 4572.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 2 4572.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 3 4573.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 3 4573.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 4570.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 4570.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 6 4576.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 6 4576.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 7 4577.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 7 4577.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 8 4578.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 8 4578.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/忘却湖畔 9 4579.txt" beforeDir="false" afterPath="$PROJECT_DIR$/忘却湖畔 9 4579.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/息之空间普纽玛2 5132.txt" beforeDir="false" afterPath="$PROJECT_DIR$/息之空间普纽玛2 5132.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/息之空间普纽玛3 5133.txt" beforeDir="false" afterPath="$PROJECT_DIR$/息之空间普纽玛3 5133.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/恶魔之山 4 3443.txt" beforeDir="false" afterPath="$PROJECT_DIR$/恶魔之山 4 3443.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/战士们的休息地 1 4130.txt" beforeDir="false" afterPath="$PROJECT_DIR$/战士们的休息地 1 4130.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/战士们的休息地 2 4131.txt" beforeDir="false" afterPath="$PROJECT_DIR$/战士们的休息地 2 4131.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/战士们的休息地 3 4132.txt" beforeDir="false" afterPath="$PROJECT_DIR$/战士们的休息地 3 4132.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/战士们的休息地 4 4133.txt" beforeDir="false" afterPath="$PROJECT_DIR$/战士们的休息地 4 4133.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/扭曲的世界树 1 3520.txt" beforeDir="false" afterPath="$PROJECT_DIR$/扭曲的世界树 1 3520.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/扭曲的世界树 2 3521.txt" beforeDir="false" afterPath="$PROJECT_DIR$/扭曲的世界树 2 3521.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/扭曲的世界树 3 3522.txt" beforeDir="false" afterPath="$PROJECT_DIR$/扭曲的世界树 3 3522.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/扭曲的世界树 4 3523.txt" beforeDir="false" afterPath="$PROJECT_DIR$/扭曲的世界树 4 3523.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/扭曲的世界树 5 3524.txt" beforeDir="false" afterPath="$PROJECT_DIR$/扭曲的世界树 5 3524.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/扭曲的世界树 6 3525.txt" beforeDir="false" afterPath="$PROJECT_DIR$/扭曲的世界树 6 3525.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/拉的城堡 3 3903.txt" beforeDir="false" afterPath="$PROJECT_DIR$/拉的城堡 3 3903.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/无限回廊 1842.txt" beforeDir="false" afterPath="$PROJECT_DIR$/无限回廊 1842.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/无限回廊 1843.txt" beforeDir="false" afterPath="$PROJECT_DIR$/无限回廊 1843.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/日落森林 1 3620.txt" beforeDir="false" afterPath="$PROJECT_DIR$/日落森林 1 3620.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/日落森林 2 3621.txt" beforeDir="false" afterPath="$PROJECT_DIR$/日落森林 2 3621.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/日落森林 3 3622.txt" beforeDir="false" afterPath="$PROJECT_DIR$/日落森林 3 3622.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/日落森林 4 3623.txt" beforeDir="false" afterPath="$PROJECT_DIR$/日落森林 4 3623.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/日落森林 5 3624.txt" beforeDir="false" afterPath="$PROJECT_DIR$/日落森林 5 3624.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/日落森林 6 3625.txt" beforeDir="false" afterPath="$PROJECT_DIR$/日落森林 6 3625.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/春植岛大厅 3750.txt" beforeDir="false" afterPath="$PROJECT_DIR$/春植岛大厅 3750.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/春植岛纪念馆 1 3720.txt" beforeDir="false" afterPath="$PROJECT_DIR$/春植岛纪念馆 1 3720.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/春植岛纪念馆 2 3721.txt" beforeDir="false" afterPath="$PROJECT_DIR$/春植岛纪念馆 2 3721.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/春植岛纪念馆 3 3722.txt" beforeDir="false" afterPath="$PROJECT_DIR$/春植岛纪念馆 3 3722.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/春植岛纪念馆 4 3723.txt" beforeDir="false" afterPath="$PROJECT_DIR$/春植岛纪念馆 4 3723.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/柯罗诺斯的时间 5150.txt" beforeDir="false" afterPath="$PROJECT_DIR$/柯罗诺斯的时间 5150.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/柯罗诺斯的时间1 5151.txt" beforeDir="false" afterPath="$PROJECT_DIR$/柯罗诺斯的时间1 5151.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/柯罗诺斯的时间2 5152.txt" beforeDir="false" afterPath="$PROJECT_DIR$/柯罗诺斯的时间2 5152.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/柯罗诺斯的时间3 5153.txt" beforeDir="false" afterPath="$PROJECT_DIR$/柯罗诺斯的时间3 5153.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/柯罗诺斯的时间4 5154.txt" beforeDir="false" afterPath="$PROJECT_DIR$/柯罗诺斯的时间4 5154.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/柯罗诺斯的时间5 5155.txt" beforeDir="false" afterPath="$PROJECT_DIR$/柯罗诺斯的时间5 5155.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/柯罗诺斯的时间6 5156.txt" beforeDir="false" afterPath="$PROJECT_DIR$/柯罗诺斯的时间6 5156.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/柯罗诺斯的时间7 5157.txt" beforeDir="false" afterPath="$PROJECT_DIR$/柯罗诺斯的时间7 5157.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/格尔答 4930.txt" beforeDir="false" afterPath="$PROJECT_DIR$/格尔答 4930.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/梦境奥涅伊洛 4 4434.txt" beforeDir="false" afterPath="$PROJECT_DIR$/梦境奥涅伊洛 4 4434.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/梦境奥涅伊洛 9 4439.txt" beforeDir="false" afterPath="$PROJECT_DIR$/梦境奥涅伊洛 9 4439.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/欧若拉庭院 1 3370.txt" beforeDir="false" afterPath="$PROJECT_DIR$/欧若拉庭院 1 3370.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/欧若拉庭院 2 3371.txt" beforeDir="false" afterPath="$PROJECT_DIR$/欧若拉庭院 2 3371.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/欧若拉庭院 3 3372.txt" beforeDir="false" afterPath="$PROJECT_DIR$/欧若拉庭院 3 3372.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/欧若拉庭院 4 3373.txt" beforeDir="false" afterPath="$PROJECT_DIR$/欧若拉庭院 4 3373.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/欧若拉庭院 5 3374.txt" beforeDir="false" afterPath="$PROJECT_DIR$/欧若拉庭院 5 3374.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/欧若拉庭院 6 3375.txt" beforeDir="false" afterPath="$PROJECT_DIR$/欧若拉庭院 6 3375.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/欧若拉森林 6 3365.txt" beforeDir="false" afterPath="$PROJECT_DIR$/欧若拉森林 6 3365.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔 5080.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔 5080.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔1 5081.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔1 5081.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔10 50810.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔10 50810.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔11 50811.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔11 50811.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔2 5082.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔2 5082.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔3 5083.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔3 5083.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔4 5084.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔4 5084.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔5 5085.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔5 5085.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔6 5086.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔6 5086.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔7 5087.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔7 5087.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔8 5088.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔8 5088.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/炼狱亚兹拉尔9 5089.txt" beforeDir="false" afterPath="$PROJECT_DIR$/炼狱亚兹拉尔9 5089.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/燃烧的都市 4 3863.txt" beforeDir="false" afterPath="$PROJECT_DIR$/燃烧的都市 4 3863.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 1 4611.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 1 4611.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/玫瑰园 10 46110.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 10 46110.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 2 4612.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 2 4612.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 3 4613.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 3 4613.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 4 4614.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 4 4614.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 4610.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 4610.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 5 4615.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 5 4615.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 6 4616.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 6 4616.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 7 4617.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 7 4617.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 8 4618.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 8 4618.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/玫瑰园 9 4619.txt" beforeDir="false" afterPath="$PROJECT_DIR$/玫瑰园 9 4619.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/白煤峡谷 5 3704.txt" beforeDir="false" afterPath="$PROJECT_DIR$/白煤峡谷 5 3704.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 1 3450.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 1 3450.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 10 3459.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 10 3459.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 11 34510.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 11 34510.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/神秘的殿堂 12 34511.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 12 34511.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 2 3451.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 2 3451.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 3 3452.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 3 3452.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 3453.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 3453.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 3454.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 3454.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 3455.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 3455.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 3456.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 3456.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 3457.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 3457.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/神秘的殿堂 3458.txt" beforeDir="false" afterPath="$PROJECT_DIR$/神秘的殿堂 3458.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/福波斯 1 4620.txt" beforeDir="false" afterPath="$PROJECT_DIR$/福波斯 1 4620.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/福波斯 2 4621.txt" beforeDir="false" afterPath="$PROJECT_DIR$/福波斯 2 4621.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/立佩拉市政府 1层 3411.txt" beforeDir="false" afterPath="$PROJECT_DIR$/立佩拉市政府 1层 3411.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/立佩拉市政府 2层大厅 3413.txt" beforeDir="false" afterPath="$PROJECT_DIR$/立佩拉市政府 2层大厅 3413.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/立佩拉市政府大厅 3410.txt" beforeDir="false" afterPath="$PROJECT_DIR$/立佩拉市政府大厅 3410.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/立佩拉市政府市长室 3414.txt" beforeDir="false" afterPath="$PROJECT_DIR$/立佩拉市政府市长室 3414.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/立佩拉市政府市长室 3416.txt" beforeDir="false" afterPath="$PROJECT_DIR$/立佩拉市政府市长室 3416.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/耶比妹妹庭园 4690.txt" beforeDir="false" afterPath="$PROJECT_DIR$/耶比妹妹庭园 4690.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/耶比妹妹庭园 4691.txt" beforeDir="false" afterPath="$PROJECT_DIR$/耶比妹妹庭园 4691.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/耶比妹妹庭园 46914.txt" beforeDir="false" afterPath="$PROJECT_DIR$/耶比妹妹庭园 46914.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/耶比妹妹庭园 46921.txt" beforeDir="false" afterPath="$PROJECT_DIR$/耶比妹妹庭园 46921.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/耶比妹妹庭园 46928.txt" beforeDir="false" afterPath="$PROJECT_DIR$/耶比妹妹庭园 46928.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/耶比妹妹庭园 46930.txt" beforeDir="false" afterPath="$PROJECT_DIR$/耶比妹妹庭园 46930.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/耶比妹妹庭园 46931.txt" beforeDir="false" afterPath="$PROJECT_DIR$/耶比妹妹庭园 46931.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/耶比妹妹庭园 4698.txt" beforeDir="false" afterPath="$PROJECT_DIR$/耶比妹妹庭园 4698.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/自由贸易都市立佩拉 3390.txt" beforeDir="false" afterPath="$PROJECT_DIR$/自由贸易都市立佩拉 3390.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/虚无之星 1 4561.txt" beforeDir="false" afterPath="$PROJECT_DIR$/虚无之星 1 4561.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/虚无之星 2 4562.txt" beforeDir="false" afterPath="$PROJECT_DIR$/虚无之星 2 4562.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/虚无之星 3 4563.txt" beforeDir="false" afterPath="$PROJECT_DIR$/虚无之星 3 4563.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/虚无之星 4 4564.txt" beforeDir="false" afterPath="$PROJECT_DIR$/虚无之星 4 4564.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/虚无之星 4560.txt" beforeDir="false" afterPath="$PROJECT_DIR$/虚无之星 4560.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/虚无之星 6 4566.txt" beforeDir="false" afterPath="$PROJECT_DIR$/虚无之星 6 4566.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蛇龙巢穴  1 520.txt" beforeDir="false" afterPath="$PROJECT_DIR$/蛇龙巢穴  1 520.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蛇龙巢穴  2 521.txt" beforeDir="false" afterPath="$PROJECT_DIR$/蛇龙巢穴  2 521.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蛇龙巢穴  3 522.txt" beforeDir="false" afterPath="$PROJECT_DIR$/蛇龙巢穴  3 522.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蛇龙巢穴  4 523.txt" beforeDir="false" afterPath="$PROJECT_DIR$/蛇龙巢穴  4 523.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蛇龙巢穴  5 524.txt" beforeDir="false" afterPath="$PROJECT_DIR$/蛇龙巢穴  5 524.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 1 4701.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 1 4701.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 2 4702.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 2 4702.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 3 4703.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 3 4703.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 4 4704.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 4 4704.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 4700.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 4700.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 5 4705.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 5 4705.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 6 4706.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 6 4706.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 7 4707.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 7 4707.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 8 4708.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 8 4708.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/誓约的圣地 9 4709.txt" beforeDir="false" afterPath="$PROJECT_DIR$/誓约的圣地 9 4709.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/金字塔 5 184.txt" beforeDir="false" afterPath="$PROJECT_DIR$/金字塔 5 184.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/金字塔墓室 1 640.txt" beforeDir="false" afterPath="$PROJECT_DIR$/金字塔墓室 1 640.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/金字塔墓室 2 641.txt" beforeDir="false" afterPath="$PROJECT_DIR$/金字塔墓室 2 641.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/金字塔墓室 3 642.txt" beforeDir="false" afterPath="$PROJECT_DIR$/金字塔墓室 3 642.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/金字塔墓室 4 643.txt" beforeDir="false" afterPath="$PROJECT_DIR$/金字塔墓室 4 643.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/阴森住宅 6 316.txt" beforeDir="false" afterPath="$PROJECT_DIR$/阴森住宅 6 316.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/阿尔卡笛亚 3 222.txt" beforeDir="false" afterPath="$PROJECT_DIR$/阿尔卡笛亚 3 222.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/阿瓦隆2 5071.txt" beforeDir="false" afterPath="$PROJECT_DIR$/阿瓦隆2 5071.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/青空城大厅 3050.txt" beforeDir="false" afterPath="$PROJECT_DIR$/青空城大厅 3050.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/青空城竞技场 3100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/青空城竞技场 3100.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/青空城竞技场 3101.txt" beforeDir="false" afterPath="$PROJECT_DIR$/青空城竞技场 3101.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/青空城竞技场 3102.txt" beforeDir="false" afterPath="$PROJECT_DIR$/青空城竞技场 3102.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/青空城竞技场 3103.txt" beforeDir="false" afterPath="$PROJECT_DIR$/青空城竞技场 3103.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/香格里拉1 610.txt" beforeDir="false" afterPath="$PROJECT_DIR$/香格里拉1 610.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/香格里拉2 611.txt" beforeDir="false" afterPath="$PROJECT_DIR$/香格里拉2 611.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/香格里拉3 612.txt" beforeDir="false" afterPath="$PROJECT_DIR$/香格里拉3 612.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/香格里拉4 613.txt" beforeDir="false" afterPath="$PROJECT_DIR$/香格里拉4 613.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/香格里拉5 614.txt" beforeDir="false" afterPath="$PROJECT_DIR$/香格里拉5 614.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/香格里拉玄武房 615.txt" beforeDir="false" afterPath="$PROJECT_DIR$/香格里拉玄武房 615.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/魔法修练馆 3馆 4313.txt" beforeDir="false" afterPath="$PROJECT_DIR$/魔法修练馆 3馆 4313.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/魔法修练馆 5馆 4315.txt" beforeDir="false" afterPath="$PROJECT_DIR$/魔法修练馆 5馆 4315.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/魔法学院大厅 5490.txt" beforeDir="false" afterPath="$PROJECT_DIR$/魔法学院大厅 5490.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/黑月城 5 154.txt" beforeDir="false" afterPath="$PROJECT_DIR$/黑月城 5 154.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/龙峡谷 3 4163.txt" beforeDir="false" afterPath="$PROJECT_DIR$/龙峡谷 3 4163.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/Script.ini" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/Script.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/buff配置" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/buff配置" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/冷雨夜.buff配置" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/冷雨夜.buff配置" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/冷雨夜.副本设置" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/冷雨夜.副本设置" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/冷雨夜.技能设置" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/冷雨夜.技能设置" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/技能配置.ini" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/技能配置.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/技能释放" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/技能释放" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/消耗配置.ini" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/消耗配置.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/默认设置.攻击设置" beforeDir="false" afterPath="$PROJECT_DIR$/配置/%C0%E4%D3%EA%D2%B9/默认设置.攻击设置" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/Closing/Script.ini" beforeDir="false" afterPath="$PROJECT_DIR$/配置/Closing/Script.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/配置/a27188832007/功能区.ini" beforeDir="false" afterPath="$PROJECT_DIR$/配置/a27188832007/功能区.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -309,7 +62,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/配置" />
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -317,6 +70,11 @@
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GAME\倾城彩虹S4最新完整客户端\脚本\配置" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SshConsoleOptionsProvider">
@@ -335,6 +93,9 @@
       <workItem from="1687868016178" duration="1242000" />
       <workItem from="1687871409292" duration="1701000" />
       <workItem from="1688561214536" duration="678000" />
+      <workItem from="1688698258170" duration="3104000" />
+      <workItem from="1689073835982" duration="3176000" />
+      <workItem from="1689486418947" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="脚本初始">
       <created>1687061040433</created>
@@ -378,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687869144400</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="新脚本1">
+      <created>1688698341709</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688698341709</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,6 +193,7 @@
     <MESSAGE value="存" />
     <MESSAGE value="1100" />
     <MESSAGE value="新脚本" />
-    <option name="LAST_COMMIT_MESSAGE" value="新脚本" />
+    <MESSAGE value="新脚本1" />
+    <option name="LAST_COMMIT_MESSAGE" value="新脚本1" />
   </component>
 </project>
